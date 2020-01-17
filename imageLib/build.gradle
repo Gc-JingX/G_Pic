@@ -22,6 +22,6 @@ dependencies {
     api fileTree(include: ['*.jar'], dir: 'libs')
     api 'androidx.appcompat:appcompat:1.1.0'
     api 'androidx.recyclerview:recyclerview:1.1.0'
-    api 'androidx.viewpager:viewpager:1.1.0'
+    api 'androidx.viewpager:viewpager:+'
     api 'com.github.chrisbanes:PhotoView:2.0.0'
 }
