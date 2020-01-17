@@ -1,0 +1,2 @@
+include ':app', ':imageLib'
+rootProject.name='G_Image'
